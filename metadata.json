@@ -1,0 +1,6 @@
+{
+  "name": "Vinted Plus - Seconde Main & Style IA",
+  "description": "Plateforme de vente de seconde main augmentée avec paiements sécurisés sous séquestre, messagerie instantanée d'offres, expédition automatisée et suivi en temps réel, recommandations IA et mode sombre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
